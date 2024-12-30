@@ -109,8 +109,8 @@ const Header = () => {
                     <Image
                         src="/logo-2.webp"
                         alt="Merit College Logo"
-                        width={290}
-                        height={290}
+                        width={220}
+                        height={220}
                         priority
                     />
                 </Link>
